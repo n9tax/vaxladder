@@ -3,6 +3,11 @@
 A port of the 1982 CP/M arcade game **Ladder** (originally by Yahoo Software)
 to **OpenVMS/VAX**, written in C for real DEC terminals.
 
+![VAX Ladder gameplay](images/gameplay.gif)
+
+*Easy Street, rendered green-phosphor style — climb the ladders, dodge the
+falling Der rocks, and reach the treasure.*
+
 It is an 80×24 character game: climb ladders, grab the statues (`&`), reach the
 treasure (`$`) to finish each level, and don't get flattened by the falling
 "Der" rocks (`o`) or burned by fire (`^`). Seven levels cycle with a rising
