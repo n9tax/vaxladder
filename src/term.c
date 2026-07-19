@@ -1,3 +1,5 @@
+/* SPDX-License-Identifier: GPL-3.0-or-later */
+/* Copyright (C) 2026 Joe <joe@n9tax.com> */
 /*
  * term.c - terminal capability formatting and differential screen updates.
  * See term.h for the overall idea.

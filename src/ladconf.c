@@ -1,3 +1,5 @@
+/* SPDX-License-Identifier: GPL-3.0-or-later */
+/* Copyright (C) 2026 Joe <joe@n9tax.com> */
 /*
  * ladconf.c - configuration program for VAX Ladder (the LADCONF analogue).
  *

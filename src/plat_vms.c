@@ -1,3 +1,5 @@
+/* SPDX-License-Identifier: GPL-3.0-or-later */
+/* Copyright (C) 2026 Joe <joe@n9tax.com> */
 /*
  * plat_vms.c - OpenVMS/VAX implementation of the platform layer.
  *

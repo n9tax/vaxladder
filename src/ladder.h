@@ -1,3 +1,5 @@
+/* SPDX-License-Identifier: GPL-3.0-or-later */
+/* Copyright (C) 2026 Joe <joe@n9tax.com> */
 /*
  * ladder.h - shared types, constants, and configuration record for
  *            VAX Ladder, a port of the 1982 CP/M game "Ladder" to

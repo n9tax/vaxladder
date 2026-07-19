@@ -144,3 +144,10 @@ $ make run
 
 Only the platform file differs between the two targets; everything above
 `plat.h` is shared, byte-for-byte, with the VMS build.
+
+## License
+
+Copyright (C) 2026 Joe (n9tax). Released under the **GNU General Public
+License, version 3 or later** — see [LICENSE](LICENSE). This is a clean-room-ish
+reimplementation informed by the earlier open-source ports credited above;
+the original *Ladder* was written by Yahoo Software in 1982.
