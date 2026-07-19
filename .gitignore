@@ -1,0 +1,23 @@
+# POSIX/Unix build outputs
+/ladder
+/ladconf
+/keycode
+*.o
+
+# OpenVMS build outputs
+*.OBJ
+*.obj
+*.EXE
+*.exe
+*.LIS
+*.lis
+*.MAP
+*.map
+
+# Runtime config written by LADCONF
+LADDER.DAT
+ladder.dat
+
+# Editor / OS cruft
+*~
+.DS_Store
